@@ -10,8 +10,8 @@ namespace Flower\Lily;
 
 class Lily
 {
-    public function desc()
+    public function show()
     {
-        echo "this is new lily flower";
+        echo "hello, this is new lily flower";
     }
 }
