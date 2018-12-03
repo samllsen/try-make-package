@@ -12,6 +12,6 @@ class User
 {
     public function login()
     {
-        echo "Sam is login, new";
+        echo "Sam is login";
     }
 }
